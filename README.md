@@ -21,14 +21,3 @@ A simple web-based application for creating, editing, and deleting notes. The no
 
 1. Clone or download the project.
 2. Open the index.html file in a browser to start using the app.
-
-## Future Enhancements
-
-- Tagging and categorization of notes
-- Search functionality
-- Syncing across devices
-
-## License
-
-This project is open-source and free to use.
-
